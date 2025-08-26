@@ -205,11 +205,17 @@
   .my-10 {
     margin-block: calc(var(--spacing) * 10);
   }
+  .my-12 {
+    margin-block: calc(var(--spacing) * 12);
+  }
   .my-14 {
     margin-block: calc(var(--spacing) * 14);
   }
   .my-20 {
     margin-block: calc(var(--spacing) * 20);
+  }
+  .my-24 {
+    margin-block: calc(var(--spacing) * 24);
   }
   .mr-1 {
     margin-right: calc(var(--spacing) * 1);
@@ -353,11 +359,20 @@
   .border-sky-700 {
     border-color: var(--color-sky-700);
   }
+  .border-white {
+    border-color: var(--color-white);
+  }
   .bg-\[ur\] {
     background-color: ur;
   }
   .bg-amber-50 {
     background-color: var(--color-amber-50);
+  }
+  .bg-amber-50\/0 {
+    background-color: color-mix(in srgb, oklch(98.7% 0.022 95.277) 0%, transparent);
+    @supports (color: color-mix(in lab, red, red)) {
+      background-color: color-mix(in oklab, var(--color-amber-50) 0%, transparent);
+    }
   }
   .bg-amber-50\/1 {
     background-color: color-mix(in srgb, oklch(98.7% 0.022 95.277) 1%, transparent);
@@ -379,6 +394,12 @@
   }
   .bg-sky-500 {
     background-color: var(--color-sky-500);
+  }
+  .bg-sky-700 {
+    background-color: var(--color-sky-700);
+  }
+  .bg-white {
+    background-color: var(--color-white);
   }
   .bg-white\/10 {
     background-color: color-mix(in srgb, #fff 10%, transparent);
