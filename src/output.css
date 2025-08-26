@@ -202,6 +202,9 @@
   .my-2 {
     margin-block: calc(var(--spacing) * 2);
   }
+  .my-5 {
+    margin-block: calc(var(--spacing) * 5);
+  }
   .my-10 {
     margin-block: calc(var(--spacing) * 10);
   }
@@ -547,6 +550,9 @@
   }
   .px-2 {
     padding-inline: calc(var(--spacing) * 2);
+  }
+  .px-5 {
+    padding-inline: calc(var(--spacing) * 5);
   }
   .py-5 {
     padding-block: calc(var(--spacing) * 5);
