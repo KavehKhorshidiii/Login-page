@@ -1,6 +1,10 @@
-let PassInput = document.getElementsByClassName("PassInput")
+//let PassInput = document.getElementsByClassName("PassInput")
+let showPassBtn = document.getElementsByClassName("showPassBtn")
+console.log(showPassBtn[0])
 
-PassInput[0].addEventListener(onclick , () => {
-    console.log("object")
+showPassBtn[0].addEventListener(onclick , () => {
+    return console.log("object")
 })
-console.log(PassInput[0])
+
+
+//console.log(PassInput[0])
