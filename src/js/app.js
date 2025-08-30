@@ -7,4 +7,3 @@ showPassBtn[0].addEventListener("click" , () => {
     console.log(PassInput[0].type)
 
 })
-
