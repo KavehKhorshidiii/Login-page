@@ -308,6 +308,9 @@
   .w-2\/3 {
     width: calc(2/3 * 100%);
   }
+  .w-7 {
+    width: calc(var(--spacing) * 7);
+  }
   .w-8 {
     width: calc(var(--spacing) * 8);
   }
