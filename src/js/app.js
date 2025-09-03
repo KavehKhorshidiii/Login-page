@@ -1,5 +1,6 @@
 let PassInput = document.getElementsByClassName("PassInput")
 let showPassBtn = document.getElementsByClassName("showPassBtn")
+let loginBtn = document.getElementById("loginBtn")
 
 //show password 
 showPassBtn[0].addEventListener("click" , () => {
