@@ -1,5 +1,6 @@
 let PassInput = document.getElementsByClassName("PassInput")
 let showPassBtn = document.getElementsByClassName("showPassBtn")
+//login button
 let loginBtn = document.getElementById("loginBtn")
 //show Password
 let eyeSVG = document.getElementById("eye")
@@ -15,7 +16,7 @@ console.log(closeEyeSVG)
 //})
 
 
-console.log( eyeSVG.class )
+console.log( closeEyeSVG.classList.contains )
 
 
 //show password 
