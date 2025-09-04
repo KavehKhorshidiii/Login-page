@@ -10,13 +10,16 @@ console.log(eyeSVG)
 console.log(closeEyeSVG)
 
 
-//eyeSVG.addEventListener("click" , () => {
-//    eyeSVG.classList.toggle("hidden")
-//})
-closeEyeSVG.addEventListener("click" , () => {
-     if(closeEyeSVG.classList.contains("hidden")){
+eyeSVG.addEventListener("click" , () => {
+    eyeSVG.classList.toggle("hidden")
+    if(closeEyeSVG.classList.contains("hidden")){
         closeEyeSVG.classList.remove("hidden")
-     }
+    }
+})
+closeEyeSVG.addEventListener("click" , () => {
+    closeEyeSVG.classList.add("hidden")
+    eyeSVG.classList.remove("hidden")
+
 })
 
 
