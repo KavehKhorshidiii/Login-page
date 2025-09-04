@@ -1,7 +1,8 @@
 let PassInput = document.getElementsByClassName("PassInput")
 let showPassBtn = document.getElementsByClassName("showPassBtn")
 let loginBtn = document.getElementById("loginBtn")
-
+let eyeSVG = document.getElementById()
+let closeEyeSVG = document.getElementById()
 //show password 
 showPassBtn[0].addEventListener("click" , () => {
     PassInput[0].type = PassInput[0].type === 'password' ? 'text' : "password"
