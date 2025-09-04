@@ -9,14 +9,18 @@ let closeEyeSVG = document.getElementById("closeEye")
 console.log(eyeSVG)
 console.log(closeEyeSVG)
 
+
 //eyeSVG.addEventListener("click" , () => {
 //    eyeSVG.classList.toggle("hidden")
 //})
-//closeEyeSVG.addEventListener("click" , () => {
-//})
+closeEyeSVG.addEventListener("click" , () => {
+     if(closeEyeSVG.classList.contains("hidden")){
+        closeEyeSVG.classList.remove("hidden")
+     }
+})
 
 
-console.log( closeEyeSVG.classList.contains )
+console.log( closeEyeSVG.classList.contains("hidden") )
 
 
 //show password 
