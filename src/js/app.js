@@ -6,7 +6,7 @@ let loginBtn = document.getElementById("loginBtn")
 let eyeSVG = document.getElementById("eye")
 let closeEyeSVG = document.getElementById("closeEye")
 
-
+// open eye icon for password
 eyeSVG.addEventListener("click" , () => {
     eyeSVG.classList.toggle("hidden")
     if(closeEyeSVG.classList.contains("hidden")){
