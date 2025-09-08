@@ -1,8 +1,6 @@
 let PassInput = document.getElementsByClassName("PassInput")
 let showPassBtn = document.getElementsByClassName("showPassBtn")
-//login button
 let loginBtn = document.getElementById("loginBtn")
-//show Password
 let eyeSVG = document.getElementById("eye")
 let closeEyeSVG = document.getElementById("closeEye")
 
@@ -19,10 +17,6 @@ closeEyeSVG.addEventListener("click" , () => {
     closeEyeSVG.classList.add("hidden")
     eyeSVG.classList.remove("hidden")
 })
-
-
-console.log( closeEyeSVG.classList.contains("hidden") )
-
 
 //show password 
 showPassBtn[0].addEventListener("click" , () => {
