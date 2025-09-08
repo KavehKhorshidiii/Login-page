@@ -6,8 +6,6 @@ let loginBtn = document.getElementById("loginBtn")
 let eyeSVG = document.getElementById("eye")
 let closeEyeSVG = document.getElementById("closeEye")
 
-console.log(closeEyeSVG)
-
 
 eyeSVG.addEventListener("click" , () => {
     eyeSVG.classList.toggle("hidden")
