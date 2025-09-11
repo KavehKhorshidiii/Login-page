@@ -20,6 +20,7 @@ closeEyeSVG.addEventListener("click" , () => {
     eyeSVG.classList.remove("hidden")
 })
 
+
 //show password 
 showPassBtn[0].addEventListener("click" , () => {
     PassInput[0].type = PassInput[0].type === 'password' ? 'text' : "password"
