@@ -13,6 +13,7 @@ eyeSVG.addEventListener("click" , () => {
     }
 })
 
+
 // open eye icon for password
 closeEyeSVG.addEventListener("click" , () => {
     closeEyeSVG.classList.add("hidden")
