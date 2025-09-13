@@ -52,6 +52,17 @@ This is my first experience with TypeScript, and the goal was just learning and 
 - Real-time UI updates (list always reflects the current state)
 - Simple and minimal UI for learning and practicing
 
+- Email input
+- Password input with show/hide toggle
+- Submit button
+- Responsive layout for mobile and desktop
+
+Client-side validation (required fields, basic email format)
+Accessible markup and semantic HTML
+Simple, clean styling for easy reuse
+Local development friendly (no backend required for UI testing)
+Built using TypeScript for safer DOM handling and form typing
+
 
 <br/>
 <br/>
