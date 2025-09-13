@@ -44,14 +44,6 @@ This is my first experience with TypeScript, and the goal was just learning and 
 
 ## ✨ Features
 
-- Add new tasks (using the + button or Enter key)
-- Delete individual tasks (trash bin button appears on hover)
-- Clear all tasks at once (with the Clear All button)
-- Tasks are stored in Local Storage (they persist even after closing/reloading the page)
-- Built with TypeScript to practice types, interfaces, and safe coding
-- Real-time UI updates (list always reflects the current state)
-- Simple and minimal UI for learning and practicing
-
 - Email input
 - Password input with show/hide toggle
 - Submit button
