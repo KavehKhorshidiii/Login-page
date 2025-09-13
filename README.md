@@ -32,9 +32,9 @@ This is my first experience with TypeScript, and the goal was just learning and 
 
 ## 🖱️ Usage
 
-1. Enter an email or username into the first field.
+1. Enter an email into the first field.
 2. Enter your password; optionally toggle visibility with the eye icon.
-3. Click Login or press Enter to submit.
+3. Click Login to submit.
 4. Client-side validation will show error messages for missing or malformed inputs.
 update readme file
 
