@@ -135,8 +135,6 @@ npx tsc --watch
 
 ![Screenshot](./public/images/Image.png)
 
-<br/>
-
 
 <br/>
 <br/>
