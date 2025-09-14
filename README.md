@@ -21,8 +21,6 @@
 
 ## 📄 Description
 
-
-
 update readme file
 
 
@@ -92,7 +90,6 @@ npx tsc --watch
 
 ## ⚙️ Tech Stack
 
-- TypeScript
 
 
 <br/>
