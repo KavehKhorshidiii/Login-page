@@ -98,11 +98,7 @@ npx tsc --watch
 
 ## 🎯 Project Goals
 
-- Learn the basics of TypeScript through a simple real-world project
-- Practice using type annotations, interfaces, and DOM typing
-- Get familiar with handling event listeners in TypeScript
-- Store data using the browser’s Local Storage
-- Build a small project as a first step into the world of TypeScript
+
 
 
 <br/>
