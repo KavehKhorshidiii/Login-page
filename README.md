@@ -21,9 +21,9 @@
 
 ## 📄 Description
 
-This project is a simple ToDo List created only for practicing TypeScript.
-I built this list using TypeScript to get familiar with types, interfaces, and DOM manipulation in TypeScript.
-This is my first experience with TypeScript, and the goal was just learning and practice.
+
+
+update readme file
 
 
 <br/>
@@ -36,7 +36,6 @@ This is my first experience with TypeScript, and the goal was just learning and 
 2. Enter your password; optionally toggle visibility with the eye icon.
 3. Click Login to submit.
 4. Client-side validation will show error messages for missing or malformed inputs.
-update readme file
 
 
 <br/>
