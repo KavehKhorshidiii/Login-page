@@ -81,44 +81,6 @@ npx tsc --watch
 <br/>
 
 
-## Tech Stack
-
-
-<br/>
-<br/>
-
-
-## Project Goals
-
-
-<br/>
-<br/>
-
-
-## TODO (Next Steps)
-...
-
-
-<br/>
-<br/>
-
-
-## License
-...
-
-
-<br/>
-<br/>
-
-
-## Testing
-...
-
-
-<br/>
-<br/>
-
-
 ## ScreenShot
 
 ###### Desktop
