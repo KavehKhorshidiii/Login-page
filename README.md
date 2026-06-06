@@ -6,7 +6,7 @@
 <br/>
 
 
-## 🌐 Live Demo  
+## Live Demo  
 
 [Open the Live Website](https://to-do-list-type-script-practice.vercel.app/)
 
@@ -15,13 +15,13 @@
 <br/>
 
 
-## 📄 Description
+## Description
 
 <br/>
 <br/>
 
 
-## 🖱️ Usage
+## Usage
 
 1. Enter an email into the first field.
 2. Enter your password; optionally toggle visibility with the eye icon.
@@ -33,7 +33,7 @@
 <br/>
 
 
-## ✨ Features
+## Features
 
 - Email input
 - Password input with show/hide toggle
@@ -46,7 +46,7 @@
 <br/>
 
 
-## 📦 Installation & Usage
+## Installation & Usage
 
 ###### Requirements 
 - Node.js 
@@ -81,21 +81,21 @@ npx tsc --watch
 <br/>
 
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 
 <br/>
 <br/>
 
 
-## 🎯 Project Goals
+## Project Goals
 
 
 <br/>
 <br/>
 
 
-## 📌 TODO (Next Steps)
+## TODO (Next Steps)
 ...
 
 
@@ -103,7 +103,7 @@ npx tsc --watch
 <br/>
 
 
-## ⚖️ License
+## License
 ...
 
 
@@ -111,7 +111,7 @@ npx tsc --watch
 <br/>
 
 
-## 🧪 Testing
+## Testing
 ...
 
 
@@ -119,7 +119,7 @@ npx tsc --watch
 <br/>
 
 
-## 🌌 ScreenShot
+## ScreenShot
 
 ###### Desktop
 
