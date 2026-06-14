@@ -8,12 +8,13 @@
 
 <br/>
 
-Description
+## Description
+
 The goal was to explore web development hands-on and practice building a simple todo list app. This project was built to practice Tailwind CSS and improve frontend development skills.
 
  <br/>
 
-Features
+## Features
 
 - Simple task management system
 - Responsive design
@@ -53,7 +54,7 @@ git git clone https://github.com/username/todo-list.git
 
 2. Move into the project directory 
 ```bash
-bash cd todo-list 
+cd todo-list 
 ```
 
 ###### Usage 
