@@ -1,102 +1,88 @@
-<h1 align="center">login page</h1>
+<h1 align="center">Todo List</h1> 
+<p align="center"> Simple Todo List UI built with HTML, Tailwind CSS, and JavaScript.</p>
 
+<br/> <br/> 
 
-<br/>
-<br/>
-<br/>
-
-
-## Live Demo  
-
-[Open the Live Website](https://to-do-list-type-script-practice.vercel.app/)
-
+## Live Demo
+[Open the Live Website](#) 
 
 <br/>
-<br/>
 
+Description
+The goal was to explore web development hands-on and practice building a simple todo list app. This project was built to practice Tailwind CSS and improve frontend development skills.
 
-## Description
+ <br/>
 
-<br/>
-<br/>
+Features
 
-
-## Usage
-
-1. Enter an email into the first field.
-2. Enter your password; optionally toggle visibility with the eye icon.
-3. Click Login to submit.
-4. Client-side validation will show error messages for missing or malformed inputs.
-
+- Simple task management system
+- Responsive design
+- Mobile view support
+- Add, complete, and delete tasks
+- Automatic dark mode based on the user's system preference
+- Clean and minimal UI
 
 <br/>
+
+## Screenshots
+###### Desktop
+![Screenshot](./public/Image.png)
+
+
+<br/> <br/>
+
+## Tech Stack
+- HTML
+- Tailwind CSS 
+- JavaScript 
+
 <br/>
-
-
-## Features
-
-- Email input
-- Password input with show/hide toggle
-- Submit button
-- Responsive layout for mobile and desktop
-- Simple, clean styling for easy reuse
-
-
-<br/>
-<br/>
-
 
 ## Installation & Usage
 
 ###### Requirements 
-- Node.js 
-- npm or yarn
+- A modern web browser 
+- No build tools required
 
 ###### Installation Steps 
 
 1. Clone the project 
 ```bash
-git clone https://github.com/KavehKhorshidiii/To-DoList--TypeScriptPractice.git
-```
-2. Move into the project directory
-```bash
-cd To-DoList--TypeScriptPractice
-```
-3. Install dependencies
-```bash
-npm install
-```
-4. Compile TypeScript to JavaScript
-```bash
-npx tsc
-```
-5. Run TypeScript in watch mode (optional for development)
-npm start
-```bash
-npx tsc --watch
+git git clone https://github.com/username/todo-list.git 
 ```
 
+2. Move into the project directory 
+```bash
+bash cd todo-list 
+```
+
+###### Usage 
+Steps Open the project in your browser 
+
+```bash
+open index.html 
+```
+
+<br/> 
+
+## Project Goals
+- Practice building UI with Tailwind CSS 
+- Improve frontend development skills 
+- Learn DOM manipulation with vanilla JavaScript 
+
+<br/> 
+
+## TODO (Next Steps)
+- [ ] Add local storage support
+- [ ] Add task categories or tags 
+- [ ] Add unit testing (using Vitest or Jest)
 
 <br/>
-<br/>
 
+## Author
 
-## ScreenShot
+ **Kaveh Khorshidi** 
 
-###### Desktop
+[![GitHub](https://img.shields.io/badge/GitHub-username-181717?logo=github)](https://github.com/username)
 
-![Screenshot](./public/images/Image.png)
-
-
-<br/>
-<br/>
-
-
-<h3 align="center">
-
-<a href="https://github.com/Kaveh-Khorshidi" >
-"Developed  by  Kaveh Khorshidi"
-</a>
-
-</h3>
-
+[![Email](https://img.shields.io/badge/Email-youremail%40gmail.com-181717?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
